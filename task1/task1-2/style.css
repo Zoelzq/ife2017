@@ -1,0 +1,112 @@
+*{
+	font-size: "Microsoft YaHei";
+	margin: 0;
+	padding: 0;
+}
+p{
+	text-indent: 2em;
+	margin:5px;
+}
+h1,h2,h3,h4,h5{
+	margin: 10px;
+}
+#wraper{
+	width: 1180px;
+	margin: 0 auto;
+	background-color: #ccc;
+}
+.para{
+	width: 94%;
+	border: 1px solid #ccc;
+	margin: 0 auto;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	padding: 20px;
+	background-color: #fff;
+}
+.box-shadow{  
+  -webkit-box-shadow: 3px 3px 3px ;  
+  -moz-box-shadow: 3px 3px 3px ;  
+  box-shadow: 3px 3px 3px ;  
+}  
+#header{
+	width: 100%;
+	height: 80px;
+	background-color: black;
+	margin-bottom: 10px;
+}
+#header img{
+	width: 100px;
+	height: 70px;
+	margin-top: 5px;
+	margin-left: 40px;
+}
+#nav{
+	float: right;
+	margin-top: 30px;
+}
+#nav li{
+	float: left;
+	margin-right: 20px;
+}
+#nav li a{
+	color: white;
+	text-decoration: none;
+}
+.pic{
+	width: 160px;
+	height: 160px;
+	border: 1px solid #ccc;
+	margin-left: 50px;
+	margin-bottom: 20px;
+	text-align: center;
+}
+.pic img{
+	width: 130px;
+	height: 100px;
+}
+.pic p{
+	text-indent: 0em;
+}
+table th{
+	background-color: black;
+	color: white;
+}
+table #th1{
+	width: 40%;
+}
+table #th2{
+	width: 40%;
+}
+table #th3{
+	width: 20%;
+}
+form{
+	margin-left: 100px;
+}
+form label,input{
+	margin: 10px;
+}
+form span{
+	font-size: 10px;
+	margin-left: 162px
+}
+form input{
+	padding: 5px;
+}
+textarea{
+	width: 500px;
+	height: 50px;
+}
+#footer{
+	width: 100%;
+	height: 50px;
+	background-color: black;
+}
+#footer p{
+	color: #fff;
+	text-align: center;
+}
+ul,ol{
+	margin-left: 30px;
+}
